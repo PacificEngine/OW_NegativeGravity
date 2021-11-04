@@ -1,0 +1,10 @@
+{
+	"filename": "PacificEngine.OW_NegativeGravity.dll",
+	"author": "PacificEngine",
+	"name": "Negative Gravity",
+	"uniqueName": "PacificEngine.OW_NegativeGravity",
+	"version": "0.1.0",
+	"owmlVersion": "2.1.0",
+	"dependencies": [ "PacificEngine.OW_CommonResources" ],
+	"enabled": true
+}
